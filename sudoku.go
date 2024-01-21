@@ -5,13 +5,6 @@
 // test1 : "53..7...." "6..195..." ".98....6." "8...6...3" "4..8.3..1" "7...2...6" ".6....28." "...419..5" "....8..79" | cat -e
 // test2 : 8........ ..36..... .7..9.2.. .5...7... ....457.. ...1...3. ..1....68 ..85...1. .9....4.. | cat -e
 // test3 : . 1 2 3 4 | cat -e            // Error
-// created by melfihry pooler in z01oujda
-// date: 2024/01/21
-// description: a program that solves a sudoku puzzle
-// usage: go run sudoku.go "test" "test" "test" "test" "test" "test" "test" "test" "test" | cat -e
-// test1 : "53..7...." "6..195..." ".98....6." "8...6...3" "4..8.3..1" "7...2...6" ".6....28." "...419..5" "....8..79" | cat -e
-// test2 : 8........ ..36..... .7..9.2.. .5...7... ....457.. ...1...3. ..1....68 ..85...1. .9....4.. | cat -e
-// test3 : . 1 2 3 4 | cat -e            // Error
 package main
 
 import (
